@@ -3,7 +3,7 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Insert exercise title here
+## Data Cleaning for Analysis in a SQL Database
 
 ```yaml
 type: VideoExercise
