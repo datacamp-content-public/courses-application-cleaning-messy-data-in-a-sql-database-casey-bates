@@ -3,17 +3,28 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 786eb72bf2
+xp: 50
+```
+
+`@projector_key`
+564c452a5a07e95418480fc9bc4648a9
+
+---
+
+## Insert exercise title here
 
 ```yaml
 type: NormalExercise
-key: 2bafef99a3
-lang: r
+key: 1ef24b98ea
 xp: 100
-skills: 1
 ```
 
-This is an example exercise.
+
 
 `@instructions`
 
@@ -40,16 +51,3 @@ This is an example exercise.
 ```{r}
 
 ```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: VideoExercise
-key: 786eb72bf2
-xp: 50
-```
-
-`@projector_key`
-564c452a5a07e95418480fc9bc4648a9
