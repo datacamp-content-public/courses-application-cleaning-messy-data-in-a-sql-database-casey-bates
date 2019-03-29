@@ -1,6 +1,7 @@
 ---
 title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Data Cleaning for Analysis in a SQL Database
